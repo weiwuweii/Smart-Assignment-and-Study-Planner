@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <limits>
+#include <iomanip>
 using namespace std;
 
 // global variables
@@ -127,22 +128,24 @@ void displayTasks() {
 // Member 3
 void calculateSummary() {
 	if (taskCount == 0) {
-		cout << "No task available!";
+		cout << "No tasks available!" << endl;
 		return;
 	}
 	
-	int total = 0;
+	double total = 0;
 	double average = 0;
 	
 	for (int i = 0;i < taskCount;i++) {
 		total = total + tasks[i].hours;
 	}
 	
-	average = total/taskCount;
+	average = total / taskCount;
 	
+	cout << fixed << setprecision(2);
 	cout << "Total task: " << taskCount << endl;
 	cout << "Total estimated hours: " << total << endl;
 	cout << "Average estimated hours: " << average << endl;
+	cout.unsetf(ios::fixed);
 }
 
 void countPriority () {
@@ -181,9 +184,14 @@ double recursiveTotal(int n) {
 }
 
 void displayRecursiveTotal() {
-	int total = recursiveTotal(taskCount);
+	if (taskCount == 0) {
+		cout << "No tasks available!" << endl;
+		return;
+	}
 	
-	cout << "Total study hours: " << total;
+	double total = recursiveTotal(taskCount);
+	
+	cout << "Total study hours: " << total << endl;
 }
 
 
@@ -201,7 +209,11 @@ void sortTasks() {
     cout << "\n1. Days Until Deadline";
     cout << "\n2. Estimated Hours";
     cout << "\nEnter your choice: ";
-    cin >> sortChoice;
+    if (!(cin >> sortChoice)) {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        sortChoice = 0;
+    }
 
     if (sortChoice != 1 && sortChoice != 2) {
         cout << "Invalid sorting choice!" << endl;
@@ -212,7 +224,11 @@ void sortTasks() {
     cout << "\n1. Ascending";
     cout << "\n2. Descending";
     cout << "\nEnter your choice: ";
-    cin >> sortOrder;
+    if (!(cin >> sortOrder)) {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        sortOrder = 0;
+    }
 
     if (sortOrder != 1 && sortOrder != 2) {
         cout << "Invalid sorting order!" << endl;
@@ -275,13 +291,21 @@ void searchTasks() {
     cout << "\n1. Task ID";
     cout << "\n2. Course Name";
     cout << "\nEnter your choice: ";
-    cin >> searchChoice;
+    if (!(cin >> searchChoice)) {
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        searchChoice = 0;
+    }
 
     if (searchChoice == 1) {
         int searchID;
 
         cout << "Enter Task ID: ";
-        cin >> searchID;
+        while (!(cin >> searchID)) {
+            cout << "Invalid Task ID! Enter a number: ";
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        }
 
         for (int i = 0; i < taskCount; i++) {
             if (tasks[i].id == searchID) {
