@@ -1,8 +1,8 @@
 # Test Cases - Smart Assignment & Study Planner
 
 Setiap test terdiri dari dua berkas:
-- `tcXX_nama_input.txt`: urutan input yang diketikkan ke program (satu baris = satu Enter)
-- `tcXX_nama_expected.txt`: output lengkap yang diharapkan (versi `main.cpp` terbaru)
+- `tcXX_nama_input.txt`: urutan input yang diketikkan ke program (satu baris = satu Enter).
+- `tcXX_nama_expected.txt`: output lengkap yang diharapkan.
 
 ## Daftar Test Case
 | ID | Kategori | Yang diuji | Hasil yang diharapkan |
