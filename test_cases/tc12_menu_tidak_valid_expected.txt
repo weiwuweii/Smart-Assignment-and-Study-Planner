@@ -1,0 +1,45 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Invalid choice! Please try again.
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Invalid input! Please enter a number.
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!

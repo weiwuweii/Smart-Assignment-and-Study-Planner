@@ -1,0 +1,218 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+===== TASK LIST =====
+
+Task 1
+Task ID: 1
+Course: Kalkulus
+Task Name: Tugas A
+Days Left: 0
+Estimated Hours: 1
+Priority: URGENT
+------------------------------
+
+Task 2
+Task ID: 2
+Course: Kalkulus
+Task Name: Tugas B
+Days Left: 1
+Estimated Hours: 1
+Priority: URGENT
+------------------------------
+
+Task 3
+Task ID: 3
+Course: Fisika
+Task Name: Tugas C
+Days Left: 2
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+Task 4
+Task ID: 4
+Course: Fisika
+Task Name: Tugas D
+Days Left: 3
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+Task 5
+Task ID: 5
+Course: Kimia
+Task Name: Tugas E
+Days Left: 4
+Estimated Hours: 1
+Priority: MEDIUM
+------------------------------
+
+Task 6
+Task ID: 6
+Course: Kimia
+Task Name: Tugas F
+Days Left: 6
+Estimated Hours: 1
+Priority: MEDIUM
+------------------------------
+
+Task 7
+Task ID: 7
+Course: Kimia
+Task Name: Tugas G
+Days Left: 7
+Estimated Hours: 1
+Priority: LOW
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: === PRIORITY STATISTICS ===
+URGENT: 2
+HIGH: 2
+MEDIUM: 2
+LOW: 1
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!

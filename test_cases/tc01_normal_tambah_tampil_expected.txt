@@ -1,0 +1,55 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+===== TASK LIST =====
+
+Task 1
+Task ID: 101
+Course: Algoritma
+Task Name: Quiz 1
+Days Left: 5
+Estimated Hours: 2.5
+Priority: MEDIUM
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!

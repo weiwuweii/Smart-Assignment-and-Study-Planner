@@ -1,0 +1,86 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+===TODAY'S STUDY PLANNER ===
+Enter available study hours today: 
+Recommended Tasks:
+No tasks fit your available study hours.
+
+==== STUDY SUMMARY ====
+Available Hours: 0.5
+Planned Hours: 0
+Remaining Hours: 0.5
+Number of Planned Tasks: 0
+
+Tasks Not Selected:
+- Laporan (4 hours, LOW)
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+===TODAY'S STUDY PLANNER ===
+Enter available study hours today: Invalid input! Enter hours greater than 0: 
+Recommended Tasks:
+No tasks fit your available study hours.
+
+==== STUDY SUMMARY ====
+Available Hours: 3
+Planned Hours: 0
+Remaining Hours: 3
+Number of Planned Tasks: 0
+
+Tasks Not Selected:
+- Laporan (4 hours, LOW)
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!

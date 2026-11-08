@@ -1,0 +1,63 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+===TODAY'S STUDY PLANNER ===
+Enter available study hours today: 
+Recommended Tasks:
+
+Task ID: 1
+Course: Algoritma
+Task: Laporan
+Priority: LOW
+Estimated Hours to complete: 4
+
+==== STUDY SUMMARY ====
+Available Hours: 4
+Planned Hours: 4
+Remaining Hours: 0
+Number of Planned Tasks: 1
+
+Tasks Not Selected:
+All tasks have been scheduled!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!

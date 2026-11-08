@@ -1,0 +1,272 @@
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Enter Task ID: Enter Course Name: Enter Task Name: Enter Days Left Until Deadline: Enter Estimated Hours: Task added successfully!
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+Sort tasks by:
+1. Days Until Deadline
+2. Estimated Hours
+Enter your choice: 
+Sorting Order:
+1. Ascending
+2. Descending
+Enter your choice: 
+Tasks sorted successfully!
+
+===== TASK LIST =====
+
+Task 1
+Task ID: 2
+Course: Kalkulus
+Task Name: Kuis
+Days Left: 2
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+Task 2
+Task ID: 3
+Course: Fisika
+Task Name: Proyek
+Days Left: 4
+Estimated Hours: 6
+Priority: MEDIUM
+------------------------------
+
+Task 3
+Task ID: 1
+Course: Algoritma
+Task Name: Laporan
+Days Left: 7
+Estimated Hours: 4
+Priority: LOW
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+Sort tasks by:
+1. Days Until Deadline
+2. Estimated Hours
+Enter your choice: 
+Sorting Order:
+1. Ascending
+2. Descending
+Enter your choice: 
+Tasks sorted successfully!
+
+===== TASK LIST =====
+
+Task 1
+Task ID: 1
+Course: Algoritma
+Task Name: Laporan
+Days Left: 7
+Estimated Hours: 4
+Priority: LOW
+------------------------------
+
+Task 2
+Task ID: 3
+Course: Fisika
+Task Name: Proyek
+Days Left: 4
+Estimated Hours: 6
+Priority: MEDIUM
+------------------------------
+
+Task 3
+Task ID: 2
+Course: Kalkulus
+Task Name: Kuis
+Days Left: 2
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+Sort tasks by:
+1. Days Until Deadline
+2. Estimated Hours
+Enter your choice: 
+Sorting Order:
+1. Ascending
+2. Descending
+Enter your choice: 
+Tasks sorted successfully!
+
+===== TASK LIST =====
+
+Task 1
+Task ID: 2
+Course: Kalkulus
+Task Name: Kuis
+Days Left: 2
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+Task 2
+Task ID: 1
+Course: Algoritma
+Task Name: Laporan
+Days Left: 7
+Estimated Hours: 4
+Priority: LOW
+------------------------------
+
+Task 3
+Task ID: 3
+Course: Fisika
+Task Name: Proyek
+Days Left: 4
+Estimated Hours: 6
+Priority: MEDIUM
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: 
+Sort tasks by:
+1. Days Until Deadline
+2. Estimated Hours
+Enter your choice: 
+Sorting Order:
+1. Ascending
+2. Descending
+Enter your choice: 
+Tasks sorted successfully!
+
+===== TASK LIST =====
+
+Task 1
+Task ID: 3
+Course: Fisika
+Task Name: Proyek
+Days Left: 4
+Estimated Hours: 6
+Priority: MEDIUM
+------------------------------
+
+Task 2
+Task ID: 1
+Course: Algoritma
+Task Name: Laporan
+Days Left: 7
+Estimated Hours: 4
+Priority: LOW
+------------------------------
+
+Task 3
+Task ID: 2
+Course: Kalkulus
+Task Name: Kuis
+Days Left: 2
+Estimated Hours: 1
+Priority: HIGH
+------------------------------
+
+====================================
+ SMART ASSIGNMENT & STUDY PLANNER
+====================================
+1. Add Task
+2. Display All Tasks
+3. Study Time Statistics
+4. Priority Statistics
+5. Sort Tasks
+6. Search Tasks
+7. Total Study Time
+8. Today's Study Planner
+0. Exit
+====================================
+Enter your choice: Thank you for using the program!
