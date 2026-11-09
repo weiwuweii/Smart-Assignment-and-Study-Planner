@@ -8,9 +8,9 @@ dan merekomendasikan tugas yang dapat dikerjakan sesuai jam belajar yang tersedi
 |---|-----------------------|--------------------|
 | 1 | Aulia Dwi Novita      | 26/583177/PA/24475 |
 | 2 | Berliana Woro Aninda  | 26/577966/PA/24205 |
-| 3 | Kalila Indri Sahasika | 26/588392/PA/24806 |
-| 4 | Khaira Denisa         | 26/586577/PA/24693 |
-| 5 | Hilmiya Fathma Hanun  | 26/576961/PA/24119 |
+| 3 | Hilmiya Fathma Hanun  | 26/576961/PA/24119 |
+| 4 | Kalila Indri Sahasika | 26/588392/PA/24806 |
+| 5 | Khaira Denisa         | 26/586577/PA/24693 |
 
 ## Fitur
 1. Tambah tugas (validasi input dan cek ID duplikat)
